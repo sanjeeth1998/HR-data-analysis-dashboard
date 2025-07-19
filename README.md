@@ -77,10 +77,10 @@ This dashboard enables **HR and business managers** to quickly analyze:
 ### 5. Employee Filter by First Letter
 ![Growth](img%205.png)
 
-### 6. Employee Filter by First Letter
+### 6.Salary vs. Performance
 ![Employee Filter](img%206.png)
 
-### 7. Salary vs. Performance
+### 7. Geo Map – India vs New Zealand
 ![Salary vs Performance](img%207.png)
 
 ### 8. Geo Map – India vs New Zealand
