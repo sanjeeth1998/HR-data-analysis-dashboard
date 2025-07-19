@@ -74,7 +74,7 @@ This dashboard enables **HR and business managers** to quickly analyze:
 ### 4. Growth Trends (2020–2023)
 ![Performance](img%204.png)
 
-### 5. Growth Trends (2020–2023)
+### 5. Employee Filter by First Letter
 ![Growth](img%205.png)
 
 ### 6. Employee Filter by First Letter
