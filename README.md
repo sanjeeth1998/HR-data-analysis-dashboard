@@ -83,9 +83,6 @@ This dashboard enables **HR and business managers** to quickly analyze:
 ### 7. Geo Map – India vs New Zealand
 ![Salary vs Performance](img%207.png)
 
-### 8. Geo Map – India vs New Zealand
-![Map](img%208.png)
-
 ---
 
 ## 📈 Key Insights
