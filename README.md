@@ -68,7 +68,7 @@ This dashboard enables **HR and business managers** to quickly analyze:
 ### 2. Age Group Distribution
 ![Age Spread](img%202.png)
 
-### 3. Salary Stats & Top Earners
+### 3. Salary Stats & Top Earners & Performance Spread
 ![Salaries](img%203.png)
 
 ### 4. Performance Spread
