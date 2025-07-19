@@ -71,7 +71,7 @@ This dashboard enables **HR and business managers** to quickly analyze:
 ### 3. Salary Stats & Top Earners & Performance Spread
 ![Salaries](img%203.png)
 
-### 4. Performance Spread
+### 4. Growth Trends (2020–2023)
 ![Performance](img%204.png)
 
 ### 5. Growth Trends (2020–2023)
